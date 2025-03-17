@@ -4,7 +4,7 @@
 <p align="center">Sou estudante focado em DevOps, especializado em tecnologias de nuvem como AWS. Possuo experiência de projetos em cloud e automação com python, além de habilidades em bash para scripts. Minha paixão está em explorar soluções escaláveis e resilientes, utilizando as melhores práticas de DevOps para otimizar operações na nuvem e garantir alta disponibilidade e segurança dos sistemas.</p>
 
 ## _Sobre mim..._
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielSBJesus&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Estatísticas do Github de Gabriel Santos" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gabsdevcloud&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Estatísticas do Github de Gabriel Santos" align="right"/>
 
 <br>
 
