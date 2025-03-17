@@ -1,7 +1,7 @@
 
 <h2 align="center">Olá! Eu sou o Gabriel 👋</h2>
 
-<p align="center">Sou estudante focado em DevOps, especializado em tecnologias de nuvem como AWS. Possuo experiência de projetos em cloud e automação com python, além de habilidades em bash para scripts. Minha paixão está em explorar soluções escaláveis e resilientes, utilizando as melhores práticas de DevOps para otimizar operações na nuvem e garantir alta disponibilidade e segurança dos sistemas.</p>
+<p align="center">Especializado em tecnologias de nuvem como AWS. Possuo experiência de projetos em cloud, além de habilidades em bash para scripts. Minha paixão está em explorar soluções escaláveis e resilientes, utilizando as melhores práticas de DevOps para otimizar operações na nuvem e garantir alta disponibilidade e segurança dos sistemas.</p>
 
 ## _Sobre mim..._
 <img src="https://github-readme-stats.vercel.app/api?username=gabsdevcloud&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Estatísticas do Github de Gabriel Santos" align="right"/>
@@ -36,8 +36,7 @@
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />  
+        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />  
     </div>    
 </main>
 
