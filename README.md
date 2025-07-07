@@ -1,7 +1,7 @@
 
 <h2 align="center">Olá! Eu sou o Gabriel 👋</h2>
 
-<p align="center">Especializado em tecnologias de nuvem como AWS. Possuo experiência de projetos em cloud, além de habilidades em bash para scripts. Minha paixão está em explorar soluções escaláveis e resilientes, utilizando as melhores práticas de DevOps para otimizar operações na nuvem e garantir alta disponibilidade e segurança dos sistemas.</p>
+<p align="center">Especializado em tecnologias de nuvem como Azure. Possuo experiência de projetos em cloud, além de habilidades em bash para scripts. Minha paixão está em explorar soluções escaláveis e resilientes, utilizando as melhores práticas de DevOps para otimizar operações na nuvem e garantir alta disponibilidade e segurança dos sistemas.</p>
 
 ## _Sobre mim..._
 <img src="https://github-readme-stats.vercel.app/api?username=gabsdevcloud&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Estatísticas do Github de Gabriel Santos" align="right"/>
@@ -9,8 +9,8 @@
 <br>
 
 
-- Sou estudante de [**Sistemas de informação**](https://multivix.edu.br/graduacao-presencial/sistemas-de-informacao/?utm_term=&utm_campaign=Pesquisa+%7C+Vest+2024-2+%7C+Vest+ES+(Presencial)&utm_source=adwords&utm_medium=ppc&hsa_acc=8751519623&hsa_cam=21307174044&hsa_grp=163164291016&hsa_ad=713569338610&hsa_src=g&hsa_tgt=aud-1690380659225:dsa-1415209181194&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwkN--BhDkARIsAD_mnIos9daqLYIvLHMAnTX8v0Dp2AxYceK8GZ98aKRKjNqrxEIwhT3NbLsaAi8wEALw_wcB) na [**Multivix**](https://multivix.edu.br/)
-- 20 anos
+- Sou estudante de [**Ciência da Computação**](https://uvv.br/cursos/graduacao/presencial/ciencia-da-computacao/) na [**UVV**](https://uvv.br/)
+- 21 anos
 - Nacionalidade brasileira
 
 <br>
@@ -24,7 +24,6 @@
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />        
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
     </div>    
 </main>
@@ -33,12 +32,11 @@
 > Ferramentas e linguagens que ainda estou aprendendo
 <main>
     <div>  
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
+        <img  style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />  
+         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />  
     </div>    
 </main>
 
